@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-qme5nr.idcash887ws.cfd/sitemap.xml
